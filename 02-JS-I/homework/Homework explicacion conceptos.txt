@@ -1,0 +1,16 @@
+-variable: es como crear un bloque vacio, lo cual podes rellenar con cualquier palabra, numero o con lo que sea.
+
+-string: básicamente son palabras o texto que SIEMPRE van entre comillas.
+
+-Funciones (argumentos, 'return'): Las funciones son como instrucciones o una receta para realizar, una tarea que puede tomar cualquier forma.
+los argumentos  son los valores, los elementos a utilizar en esa "receta" o "carta de instrucciones". El argumento 'return' seria cuando por
+ fin realizas esa "receta" y observas el resultado final.
+
+-Declaracion 'if': Una declaracion es una afirmación, la declaracion 'if' se usa para decidir si una funcion se ejecutara o no. 
+si es verdad, se ejecuta, de lo contrario, nos dira que esto es falso. Siguiendo el ejemplo anterior si declaro o afirmo que tengo
+ los ingredientes de una receta, y si esto es asi, realizaré esa receta(VERDADERO), pero si no tengo los ingredientes, no podrìa hacerla (FALSO). 
+La declaracion if dentro de java script, nos devuelve si algo es verdadero o falso.
+
+-Valores booleanos ('true', 'false'): Veamoslo como una pregunta que solo tiene dos respuestas o dos opciones posibles.
+Los cuales, en java script, solo se utilizan el 'True'(verdadero) o 'false' (falso).
+
