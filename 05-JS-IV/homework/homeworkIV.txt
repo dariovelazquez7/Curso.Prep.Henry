@@ -1,0 +1,20 @@
+- Objetos: son un contenedor de informacion un poco mas amplio, contiene mas datos que un array sobre un "elemento X". 
+y se diferencian porque su indice no es numero, sino que se las denomina propiedad. Un ejemplo seria
+un objeto llamado "alumno" el cual contendra informacion sobre un alumno determinado. 
+
+
+- Propiedades: es cada uno de las claves que conforman los objetos, como si fueran indices, palabras claves que nos dicen 
+que tipo de datos hay dentro de ellas. Siguiendo el ejemplo anterior, si el objeto era "alumno" una propiedad podria ser 
+"nombre", otra "apellido" o "edad", asi que gracias a esas palabras claves, sabemos que dentro de ellas esta el nombre,
+apellido y edad de dicho alumno.
+
+- Métodos: son funciones que estan contenidas dentro un objeto.
+
+- Bucle 'for…in': Parecio al bucle "for" la diferencia es que al estyar dentro de un objeto, no se puede usar una variable 
+numerica, sino que debe ser invocada o nombrada, es decir usar la "propiedad" anteriormente mencionada, que cumple la 
+funcion de indice numerico(i) en en ciclo "for", para que este se ejecute. busca una "variable" en el objeto, por eso su sintaxis es
+el nombre de la variable o propiedad, la palabra "in" y luego el nombre del objeto, quedando asi: for ( propiedad in objeto)
+
+- Notación de puntos vs notación de corchetes: ambas se usan para invocar un objeto con sus determinadas propiedades y 
+valores. La notacion de puntos se emplea cuando se conocen especificamente el nombre del objeto y su propiedad.
+La notacion de corchetes se usa cuando no se sabe el nombre de la propiedad dentro de un objeto.

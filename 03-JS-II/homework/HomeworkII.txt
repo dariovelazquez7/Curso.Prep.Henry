@@ -1,0 +1,14 @@
+For: Es una expresion que se repite muchas veces hasta que una instruccion lo detiene,
+es lo que se conoce como bucle. Los bucles for son como el if pero mas especificos, tienen, 3 partes,
+la primera es el punto de partida, la segunda es el punto hasta donde llegara, y la tercea, es de a cuanto en cuanto 
+avanzará.
+
+&&: Representa "AND", o "y". Es un operador logico que sirve para agregar una segunda condicion que debe cumplirse para que una declaracion
+sea verdadera, y cuando es asi, el codigo escrito se ejecutará. si cualquiera de esas 2 condiciones no se cumple, 
+se considera falso y el codigo no se ejecutará
+
+||: Representa "OR", u "O" en español. Es otro operador logico, agrega una segunda condicion a una expresion, en este caso si cualquiera de las 2 se cumple,
+la expresion será verdadera y la funcion se ejecutará. solo si ambas expresion son falsas, la funcion no se ejecutará.
+
+!: Representa el "NOT", O "NO" en español. También es un operador lógico, basicamente se usa para devolver el valor contrario
+de cualquier expresion.
