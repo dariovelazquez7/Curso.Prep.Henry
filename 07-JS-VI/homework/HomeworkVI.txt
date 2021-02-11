@@ -1,0 +1,2 @@
+-Funciones Callbacks: son funciones o metodos que pueden pasarse como argumento a otra funcion, el callback se usa como 
+argumento para la variable que se usará de callback. 

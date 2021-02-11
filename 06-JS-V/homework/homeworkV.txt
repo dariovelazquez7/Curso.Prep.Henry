@@ -1,0 +1,7 @@
+-Prototype: es una forma sencilla de definir una funcion o metodo, dentro de una clase de objeto, con el fin que luego cualquier 
+objeto pueda tener acceso al mismo.
+
+-Constructores (De clases): son como plantillas predeterminadas que permiten crear muchos objetos que comparten mismas
+propiedas, valores o metodos.
+ 
+
